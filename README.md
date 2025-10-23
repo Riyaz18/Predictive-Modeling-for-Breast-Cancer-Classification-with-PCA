@@ -1,0 +1,2 @@
+# Predictive-Modeling-for-Breast-Cancer-Classification-with-PCA
+This project implements an end-to-end Machine Learning pipeline focusing on **dimensionality reduction**. It applies PCA to transform 30 raw feature into a smaller set of orthogonal component that retain the majority of the original data's variance (targeted at ≥95%). The performance of the reduced is then validated using **Logistic Regression**.
